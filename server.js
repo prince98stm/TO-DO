@@ -101,7 +101,7 @@ app.get('/', function(req,res){
 			</i>
 			<br>
 			<i>
-				Phone No:-<u>+91-8228059429</u>
+				Phone No:-<u>+91-9521382643</u>
 			</i>
 	
 	</center>
